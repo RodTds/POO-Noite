@@ -1,0 +1,12 @@
+{
+    "configurations": [
+    
+        {
+            "name": "C#: revisao",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\revisao\\revisao\\revisao.csproj",
+            "launchConfigurationId": "TargetFramework=;revisao"
+        }
+    ]
+}
