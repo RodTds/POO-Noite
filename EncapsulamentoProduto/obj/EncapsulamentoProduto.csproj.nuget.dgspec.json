@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\POO-Noite\\revisao\\revisao\\revisao.csproj": {}
+    "C:\\POO-Noite\\EncapsulamentoProduto\\EncapsulamentoProduto.csproj": {}
   },
   "projects": {
-    "C:\\POO-Noite\\revisao\\revisao\\revisao.csproj": {
+    "C:\\POO-Noite\\EncapsulamentoProduto\\EncapsulamentoProduto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\POO-Noite\\revisao\\revisao\\revisao.csproj",
-        "projectName": "revisao",
-        "projectPath": "C:\\POO-Noite\\revisao\\revisao\\revisao.csproj",
+        "projectUniqueName": "C:\\POO-Noite\\EncapsulamentoProduto\\EncapsulamentoProduto.csproj",
+        "projectName": "EncapsulamentoProduto",
+        "projectPath": "C:\\POO-Noite\\EncapsulamentoProduto\\EncapsulamentoProduto.csproj",
         "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\POO-Noite\\revisao\\revisao\\obj\\",
+        "outputPath": "C:\\POO-Noite\\EncapsulamentoProduto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"

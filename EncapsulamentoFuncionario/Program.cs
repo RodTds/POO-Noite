@@ -21,6 +21,7 @@ internal class Program
          Console.WriteLine("Salario " + f1.Codigo);
          Console.WriteLine("Salario " + f1.Nome);
          Console.WriteLine("Salario " + f1.Salario);
+         f1.Mostrar(10);
 
     }
 }

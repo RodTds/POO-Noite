@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\POO-Noite\\EncapsulamentoFuncionario\\EncapsulamentoFuncionario.csproj",
-      "projectName": "EncapsulamentoFuncionario",
-      "projectPath": "C:\\POO-Noite\\EncapsulamentoFuncionario\\EncapsulamentoFuncionario.csproj",
+      "projectUniqueName": "C:\\POO-Noite\\EncapsulamentoProduto\\EncapsulamentoProduto.csproj",
+      "projectName": "EncapsulamentoProduto",
+      "projectPath": "C:\\POO-Noite\\EncapsulamentoProduto\\EncapsulamentoProduto.csproj",
       "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\POO-Noite\\EncapsulamentoFuncionario\\obj\\",
+      "outputPath": "C:\\POO-Noite\\EncapsulamentoProduto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
