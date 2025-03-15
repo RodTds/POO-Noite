@@ -1,0 +1,15 @@
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoVeiculo\obj\Debug\net8.0\EncapsulamentoVeiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoVeiculo\obj\Debug\net8.0\EncapsulamentoVeiculo.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoVeiculo\obj\Debug\net8.0\EncapsulamentoVeiculo.AssemblyInfo.cs
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoVeiculo\obj\Debug\net8.0\EncapsulamentoVeiculo.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoVeiculo\obj\Debug\net8.0\EncapsulamentoVeiculo.sourcelink.json
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoVeiculo\bin\Debug\net8.0\EncapsulamentoVeiculo.exe
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoVeiculo\bin\Debug\net8.0\EncapsulamentoVeiculo.deps.json
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoVeiculo\bin\Debug\net8.0\EncapsulamentoVeiculo.runtimeconfig.json
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoVeiculo\bin\Debug\net8.0\EncapsulamentoVeiculo.dll
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoVeiculo\bin\Debug\net8.0\EncapsulamentoVeiculo.pdb
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoVeiculo\obj\Debug\net8.0\EncapsulamentoVeiculo.dll
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoVeiculo\obj\Debug\net8.0\refint\EncapsulamentoVeiculo.dll
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoVeiculo\obj\Debug\net8.0\EncapsulamentoVeiculo.pdb
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoVeiculo\obj\Debug\net8.0\EncapsulamentoVeiculo.genruntimeconfig.cache
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoVeiculo\obj\Debug\net8.0\ref\EncapsulamentoVeiculo.dll

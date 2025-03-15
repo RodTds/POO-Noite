@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\Downloads\\POO-Noite\\revisao\\revisao\\revisao.csproj": {}
+    "C:\\Users\\aluno\\Downloads\\POO-Noite\\EncapsulamentoVeiculo\\EncapsulamentoVeiculo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\Downloads\\POO-Noite\\revisao\\revisao\\revisao.csproj": {
+    "C:\\Users\\aluno\\Downloads\\POO-Noite\\EncapsulamentoVeiculo\\EncapsulamentoVeiculo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\Downloads\\POO-Noite\\revisao\\revisao\\revisao.csproj",
-        "projectName": "revisao",
-        "projectPath": "C:\\Users\\aluno\\Downloads\\POO-Noite\\revisao\\revisao\\revisao.csproj",
+        "projectUniqueName": "C:\\Users\\aluno\\Downloads\\POO-Noite\\EncapsulamentoVeiculo\\EncapsulamentoVeiculo.csproj",
+        "projectName": "EncapsulamentoVeiculo",
+        "projectPath": "C:\\Users\\aluno\\Downloads\\POO-Noite\\EncapsulamentoVeiculo\\EncapsulamentoVeiculo.csproj",
         "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\Downloads\\POO-Noite\\revisao\\revisao\\obj\\",
+        "outputPath": "C:\\Users\\aluno\\Downloads\\POO-Noite\\EncapsulamentoVeiculo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
