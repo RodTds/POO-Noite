@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\Downloads\\POO-Noite\\EncapsulamentoEstudante\\EncapsulamentoEstudante.csproj": {}
+    "C:\\Users\\aluno\\Downloads\\POO-Noite\\EncapsulamentoEstudante\\EncapsulamentoPedido\\EncapsulamentoPedido.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\Downloads\\POO-Noite\\EncapsulamentoEstudante\\EncapsulamentoEstudante.csproj": {
+    "C:\\Users\\aluno\\Downloads\\POO-Noite\\EncapsulamentoEstudante\\EncapsulamentoPedido\\EncapsulamentoPedido.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\Downloads\\POO-Noite\\EncapsulamentoEstudante\\EncapsulamentoEstudante.csproj",
-        "projectName": "EncapsulamentoEstudante",
-        "projectPath": "C:\\Users\\aluno\\Downloads\\POO-Noite\\EncapsulamentoEstudante\\EncapsulamentoEstudante.csproj",
+        "projectUniqueName": "C:\\Users\\aluno\\Downloads\\POO-Noite\\EncapsulamentoEstudante\\EncapsulamentoPedido\\EncapsulamentoPedido.csproj",
+        "projectName": "EncapsulamentoPedido",
+        "projectPath": "C:\\Users\\aluno\\Downloads\\POO-Noite\\EncapsulamentoEstudante\\EncapsulamentoPedido\\EncapsulamentoPedido.csproj",
         "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\Downloads\\POO-Noite\\EncapsulamentoEstudante\\obj\\",
+        "outputPath": "C:\\Users\\aluno\\Downloads\\POO-Noite\\EncapsulamentoEstudante\\EncapsulamentoPedido\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
