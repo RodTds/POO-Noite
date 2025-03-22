@@ -1,0 +1,15 @@
+C:\Users\aluno\Downloads\POO-Noite\ContrutorFuncionario2\bin\Debug\net8.0\ContrutorFuncionario2.exe
+C:\Users\aluno\Downloads\POO-Noite\ContrutorFuncionario2\bin\Debug\net8.0\ContrutorFuncionario2.deps.json
+C:\Users\aluno\Downloads\POO-Noite\ContrutorFuncionario2\bin\Debug\net8.0\ContrutorFuncionario2.runtimeconfig.json
+C:\Users\aluno\Downloads\POO-Noite\ContrutorFuncionario2\bin\Debug\net8.0\ContrutorFuncionario2.dll
+C:\Users\aluno\Downloads\POO-Noite\ContrutorFuncionario2\bin\Debug\net8.0\ContrutorFuncionario2.pdb
+C:\Users\aluno\Downloads\POO-Noite\ContrutorFuncionario2\obj\Debug\net8.0\ContrutorFuncionario2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\POO-Noite\ContrutorFuncionario2\obj\Debug\net8.0\ContrutorFuncionario2.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\POO-Noite\ContrutorFuncionario2\obj\Debug\net8.0\ContrutorFuncionario2.AssemblyInfo.cs
+C:\Users\aluno\Downloads\POO-Noite\ContrutorFuncionario2\obj\Debug\net8.0\ContrutorFuncionario2.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\POO-Noite\ContrutorFuncionario2\obj\Debug\net8.0\ContrutorFuncionario2.sourcelink.json
+C:\Users\aluno\Downloads\POO-Noite\ContrutorFuncionario2\obj\Debug\net8.0\ContrutorFuncionario2.dll
+C:\Users\aluno\Downloads\POO-Noite\ContrutorFuncionario2\obj\Debug\net8.0\refint\ContrutorFuncionario2.dll
+C:\Users\aluno\Downloads\POO-Noite\ContrutorFuncionario2\obj\Debug\net8.0\ContrutorFuncionario2.pdb
+C:\Users\aluno\Downloads\POO-Noite\ContrutorFuncionario2\obj\Debug\net8.0\ContrutorFuncionario2.genruntimeconfig.cache
+C:\Users\aluno\Downloads\POO-Noite\ContrutorFuncionario2\obj\Debug\net8.0\ref\ContrutorFuncionario2.dll
