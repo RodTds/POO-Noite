@@ -9,6 +9,9 @@ namespace EncapsulamentoPedido
     {
         private int numeroPedido;
         private decimal valor;
+        private List<string> itens = new List<string>();
+
+        
         
     }
 }
