@@ -1,0 +1,15 @@
+C:\Users\aluno\Downloads\POO-Noite\AgregacaoListConta\bin\Debug\net8.0\AgregacaoListConta.exe
+C:\Users\aluno\Downloads\POO-Noite\AgregacaoListConta\bin\Debug\net8.0\AgregacaoListConta.deps.json
+C:\Users\aluno\Downloads\POO-Noite\AgregacaoListConta\bin\Debug\net8.0\AgregacaoListConta.runtimeconfig.json
+C:\Users\aluno\Downloads\POO-Noite\AgregacaoListConta\bin\Debug\net8.0\AgregacaoListConta.dll
+C:\Users\aluno\Downloads\POO-Noite\AgregacaoListConta\bin\Debug\net8.0\AgregacaoListConta.pdb
+C:\Users\aluno\Downloads\POO-Noite\AgregacaoListConta\obj\Debug\net8.0\AgregacaoListConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\POO-Noite\AgregacaoListConta\obj\Debug\net8.0\AgregacaoListConta.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\POO-Noite\AgregacaoListConta\obj\Debug\net8.0\AgregacaoListConta.AssemblyInfo.cs
+C:\Users\aluno\Downloads\POO-Noite\AgregacaoListConta\obj\Debug\net8.0\AgregacaoListConta.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\POO-Noite\AgregacaoListConta\obj\Debug\net8.0\AgregacaoListConta.sourcelink.json
+C:\Users\aluno\Downloads\POO-Noite\AgregacaoListConta\obj\Debug\net8.0\AgregacaoListConta.dll
+C:\Users\aluno\Downloads\POO-Noite\AgregacaoListConta\obj\Debug\net8.0\refint\AgregacaoListConta.dll
+C:\Users\aluno\Downloads\POO-Noite\AgregacaoListConta\obj\Debug\net8.0\AgregacaoListConta.pdb
+C:\Users\aluno\Downloads\POO-Noite\AgregacaoListConta\obj\Debug\net8.0\AgregacaoListConta.genruntimeconfig.cache
+C:\Users\aluno\Downloads\POO-Noite\AgregacaoListConta\obj\Debug\net8.0\ref\AgregacaoListConta.dll
