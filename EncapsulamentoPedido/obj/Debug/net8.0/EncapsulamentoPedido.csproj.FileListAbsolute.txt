@@ -13,3 +13,18 @@ E:\Faculdade\4 Semestre\POO\POO-Noite\EncapsulamentoPedido\obj\Debug\net8.0\refi
 E:\Faculdade\4 Semestre\POO\POO-Noite\EncapsulamentoPedido\obj\Debug\net8.0\EncapsulamentoPedido.pdb
 E:\Faculdade\4 Semestre\POO\POO-Noite\EncapsulamentoPedido\obj\Debug\net8.0\EncapsulamentoPedido.genruntimeconfig.cache
 E:\Faculdade\4 Semestre\POO\POO-Noite\EncapsulamentoPedido\obj\Debug\net8.0\ref\EncapsulamentoPedido.dll
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoPedido\bin\Debug\net8.0\EncapsulamentoPedido.exe
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoPedido\bin\Debug\net8.0\EncapsulamentoPedido.deps.json
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoPedido\bin\Debug\net8.0\EncapsulamentoPedido.runtimeconfig.json
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoPedido\bin\Debug\net8.0\EncapsulamentoPedido.dll
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoPedido\bin\Debug\net8.0\EncapsulamentoPedido.pdb
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoPedido\obj\Debug\net8.0\EncapsulamentoPedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoPedido\obj\Debug\net8.0\EncapsulamentoPedido.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoPedido\obj\Debug\net8.0\EncapsulamentoPedido.AssemblyInfo.cs
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoPedido\obj\Debug\net8.0\EncapsulamentoPedido.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoPedido\obj\Debug\net8.0\EncapsulamentoPedido.sourcelink.json
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoPedido\obj\Debug\net8.0\EncapsulamentoPedido.dll
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoPedido\obj\Debug\net8.0\refint\EncapsulamentoPedido.dll
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoPedido\obj\Debug\net8.0\EncapsulamentoPedido.pdb
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoPedido\obj\Debug\net8.0\EncapsulamentoPedido.genruntimeconfig.cache
+C:\Users\aluno\Downloads\POO-Noite\EncapsulamentoPedido\obj\Debug\net8.0\ref\EncapsulamentoPedido.dll
