@@ -1,9 +1,9 @@
 ﻿using ExercicioVendaAgregacao;
 
-Comprador comprador1 = new Comprador(1000);// comprador
+Comprador comprador1 = new Comprador(1000);// comprador JA ADICIONANDO A VERBA
 Vendedor vendedor1 = new Vendedor(); // vendedor
 
-Produtos prod1 = new Produtos("Notbook",500); // instanciando(criando) produtos
+Produtos prod1 = new Produtos("Notbook",500); // instanciando(criando) produtos COM NOME E PRECO
 Produtos prod2 = new Produtos("Celular",300);
 
 Venda venda1 = new Venda(); // Instancia Venda
