@@ -19,7 +19,7 @@ namespace ExercicioVendaAgregacao
         }
 
         public void MostrarAtributos(){
-            System.Console.WriteLine($"Total da Verba: {Verba}");
+            System.Console.WriteLine($"Total da Verba: {Verba:c}");
         }
     }
 }

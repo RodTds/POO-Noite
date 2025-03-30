@@ -8,14 +8,15 @@ namespace ExercicioVendaAgregacao
     {
        
         public double Comissao { get; set; }
+
         
-        private void CalcularComissao(double valor){
+        public void CalcularComissao(double valor){
             Comissao += valor * 2 /100;
 
         }
-        public MostrarAtributo(){
+        public void MostrarAtributos(){
             
-            System.Console.WriteLine("Comissão do Vendedor" + Comissao);
+            System.Console.WriteLine($"Comissão do Vendedor: {Comissao:c}");
         }
     }
 }

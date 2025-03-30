@@ -1,0 +1,15 @@
+E:\Faculdade\4 Semestre\POO\POO-Noite\AtividadeConstrutor\obj\Debug\net8.0\AtividadeConstrutor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faculdade\4 Semestre\POO\POO-Noite\AtividadeConstrutor\obj\Debug\net8.0\AtividadeConstrutor.AssemblyInfoInputs.cache
+E:\Faculdade\4 Semestre\POO\POO-Noite\AtividadeConstrutor\obj\Debug\net8.0\AtividadeConstrutor.AssemblyInfo.cs
+E:\Faculdade\4 Semestre\POO\POO-Noite\AtividadeConstrutor\obj\Debug\net8.0\AtividadeConstrutor.csproj.CoreCompileInputs.cache
+E:\Faculdade\4 Semestre\POO\POO-Noite\AtividadeConstrutor\obj\Debug\net8.0\AtividadeConstrutor.sourcelink.json
+E:\Faculdade\4 Semestre\POO\POO-Noite\AtividadeConstrutor\bin\Debug\net8.0\AtividadeConstrutor.exe
+E:\Faculdade\4 Semestre\POO\POO-Noite\AtividadeConstrutor\bin\Debug\net8.0\AtividadeConstrutor.deps.json
+E:\Faculdade\4 Semestre\POO\POO-Noite\AtividadeConstrutor\bin\Debug\net8.0\AtividadeConstrutor.runtimeconfig.json
+E:\Faculdade\4 Semestre\POO\POO-Noite\AtividadeConstrutor\bin\Debug\net8.0\AtividadeConstrutor.dll
+E:\Faculdade\4 Semestre\POO\POO-Noite\AtividadeConstrutor\bin\Debug\net8.0\AtividadeConstrutor.pdb
+E:\Faculdade\4 Semestre\POO\POO-Noite\AtividadeConstrutor\obj\Debug\net8.0\AtividadeConstrutor.dll
+E:\Faculdade\4 Semestre\POO\POO-Noite\AtividadeConstrutor\obj\Debug\net8.0\refint\AtividadeConstrutor.dll
+E:\Faculdade\4 Semestre\POO\POO-Noite\AtividadeConstrutor\obj\Debug\net8.0\AtividadeConstrutor.pdb
+E:\Faculdade\4 Semestre\POO\POO-Noite\AtividadeConstrutor\obj\Debug\net8.0\AtividadeConstrutor.genruntimeconfig.cache
+E:\Faculdade\4 Semestre\POO\POO-Noite\AtividadeConstrutor\obj\Debug\net8.0\ref\AtividadeConstrutor.dll
