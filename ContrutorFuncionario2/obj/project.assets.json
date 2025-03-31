@@ -8,27 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Rodrigo\\.nuget\\packages\\": {}
+    "C:\\Users\\aluno\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\ContrutorFuncionario2\\ContrutorFuncionario2.csproj",
+      "projectUniqueName": "C:\\Users\\aluno\\Downloads\\POO-Noite\\ContrutorFuncionario2\\ContrutorFuncionario2.csproj",
       "projectName": "ContrutorFuncionario2",
-      "projectPath": "E:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\ContrutorFuncionario2\\ContrutorFuncionario2.csproj",
-      "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
-      "outputPath": "E:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\ContrutorFuncionario2\\obj\\",
+      "projectPath": "C:\\Users\\aluno\\Downloads\\POO-Noite\\ContrutorFuncionario2\\ContrutorFuncionario2.csproj",
+      "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aluno\\Downloads\\POO-Noite\\ContrutorFuncionario2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

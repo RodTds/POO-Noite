@@ -7,21 +7,22 @@ namespace ExercicioVendaAgregacao
 {
     public class Produtos
     {
-
-        public static int Codigo { get; set; }
+        public static int Numero { get; set; }
+        public  int Codigo { get; set; }
         public string Nome { get; set; }
         public double Preco { get; set; }
 
         static Produtos()
         {
-            Codigo = 499;
+            Numero = 499;
         }
-
+        
         public Produtos(string nome, double preco)
         {
-            Codigo++;
+            Numero++;
             Nome = nome;
             Preco = preco;
+            Codigo = Numero;
         }
 
         public void MostrarAtributos()

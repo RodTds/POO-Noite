@@ -28,3 +28,18 @@ D:\Faculdade\4 Semestre\POO\POO-Noite\ExercicioVendaAgregacao\obj\Debug\net8.0\r
 D:\Faculdade\4 Semestre\POO\POO-Noite\ExercicioVendaAgregacao\obj\Debug\net8.0\ExercicioVendaAgregacao.pdb
 D:\Faculdade\4 Semestre\POO\POO-Noite\ExercicioVendaAgregacao\obj\Debug\net8.0\ExercicioVendaAgregacao.genruntimeconfig.cache
 D:\Faculdade\4 Semestre\POO\POO-Noite\ExercicioVendaAgregacao\obj\Debug\net8.0\ref\ExercicioVendaAgregacao.dll
+C:\Users\aluno\Downloads\POO-Noite\ExercicioVendaAgregacao\bin\Debug\net8.0\ExercicioVendaAgregacao.exe
+C:\Users\aluno\Downloads\POO-Noite\ExercicioVendaAgregacao\bin\Debug\net8.0\ExercicioVendaAgregacao.deps.json
+C:\Users\aluno\Downloads\POO-Noite\ExercicioVendaAgregacao\bin\Debug\net8.0\ExercicioVendaAgregacao.runtimeconfig.json
+C:\Users\aluno\Downloads\POO-Noite\ExercicioVendaAgregacao\bin\Debug\net8.0\ExercicioVendaAgregacao.dll
+C:\Users\aluno\Downloads\POO-Noite\ExercicioVendaAgregacao\bin\Debug\net8.0\ExercicioVendaAgregacao.pdb
+C:\Users\aluno\Downloads\POO-Noite\ExercicioVendaAgregacao\obj\Debug\net8.0\ExercicioVendaAgregacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\POO-Noite\ExercicioVendaAgregacao\obj\Debug\net8.0\ExercicioVendaAgregacao.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\POO-Noite\ExercicioVendaAgregacao\obj\Debug\net8.0\ExercicioVendaAgregacao.AssemblyInfo.cs
+C:\Users\aluno\Downloads\POO-Noite\ExercicioVendaAgregacao\obj\Debug\net8.0\ExercicioVendaAgregacao.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\POO-Noite\ExercicioVendaAgregacao\obj\Debug\net8.0\ExercicioVendaAgregacao.sourcelink.json
+C:\Users\aluno\Downloads\POO-Noite\ExercicioVendaAgregacao\obj\Debug\net8.0\ExercicioVendaAgregacao.dll
+C:\Users\aluno\Downloads\POO-Noite\ExercicioVendaAgregacao\obj\Debug\net8.0\refint\ExercicioVendaAgregacao.dll
+C:\Users\aluno\Downloads\POO-Noite\ExercicioVendaAgregacao\obj\Debug\net8.0\ExercicioVendaAgregacao.pdb
+C:\Users\aluno\Downloads\POO-Noite\ExercicioVendaAgregacao\obj\Debug\net8.0\ExercicioVendaAgregacao.genruntimeconfig.cache
+C:\Users\aluno\Downloads\POO-Noite\ExercicioVendaAgregacao\obj\Debug\net8.0\ref\ExercicioVendaAgregacao.dll

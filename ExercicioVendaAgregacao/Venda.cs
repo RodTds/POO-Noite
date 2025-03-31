@@ -20,8 +20,15 @@ namespace ExercicioVendaAgregacao
         {
             CodigoVenda++;
         }
+        
+        /*  Outra forma de adicionar produtos e calcular comissao do vendedor
+        
+        public void AdicionarProduto(Produto produto){
+            VetProdutos.Add(produto);
+            Vend.CalcularComissao(produto.Preco);
 
-
+        }
+         */
         public void MostrarAtributos()
         {
             System.Console.WriteLine($"Venda: {CodigoVenda}");

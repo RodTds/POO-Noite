@@ -13,3 +13,18 @@ E:\Faculdade\4 Semestre\POO\POO-Noite\AtividadeAgregacao\obj\Debug\net8.0\refint
 E:\Faculdade\4 Semestre\POO\POO-Noite\AtividadeAgregacao\obj\Debug\net8.0\AtividadeAgregacao.pdb
 E:\Faculdade\4 Semestre\POO\POO-Noite\AtividadeAgregacao\obj\Debug\net8.0\AtividadeAgregacao.genruntimeconfig.cache
 E:\Faculdade\4 Semestre\POO\POO-Noite\AtividadeAgregacao\obj\Debug\net8.0\ref\AtividadeAgregacao.dll
+C:\Users\aluno\Downloads\POO-Noite\AtividadeAgregacao\bin\Debug\net8.0\AtividadeAgregacao.exe
+C:\Users\aluno\Downloads\POO-Noite\AtividadeAgregacao\bin\Debug\net8.0\AtividadeAgregacao.deps.json
+C:\Users\aluno\Downloads\POO-Noite\AtividadeAgregacao\bin\Debug\net8.0\AtividadeAgregacao.runtimeconfig.json
+C:\Users\aluno\Downloads\POO-Noite\AtividadeAgregacao\bin\Debug\net8.0\AtividadeAgregacao.dll
+C:\Users\aluno\Downloads\POO-Noite\AtividadeAgregacao\bin\Debug\net8.0\AtividadeAgregacao.pdb
+C:\Users\aluno\Downloads\POO-Noite\AtividadeAgregacao\obj\Debug\net8.0\AtividadeAgregacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\POO-Noite\AtividadeAgregacao\obj\Debug\net8.0\AtividadeAgregacao.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\POO-Noite\AtividadeAgregacao\obj\Debug\net8.0\AtividadeAgregacao.AssemblyInfo.cs
+C:\Users\aluno\Downloads\POO-Noite\AtividadeAgregacao\obj\Debug\net8.0\AtividadeAgregacao.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\POO-Noite\AtividadeAgregacao\obj\Debug\net8.0\AtividadeAgregacao.sourcelink.json
+C:\Users\aluno\Downloads\POO-Noite\AtividadeAgregacao\obj\Debug\net8.0\AtividadeAgregacao.dll
+C:\Users\aluno\Downloads\POO-Noite\AtividadeAgregacao\obj\Debug\net8.0\refint\AtividadeAgregacao.dll
+C:\Users\aluno\Downloads\POO-Noite\AtividadeAgregacao\obj\Debug\net8.0\AtividadeAgregacao.pdb
+C:\Users\aluno\Downloads\POO-Noite\AtividadeAgregacao\obj\Debug\net8.0\AtividadeAgregacao.genruntimeconfig.cache
+C:\Users\aluno\Downloads\POO-Noite\AtividadeAgregacao\obj\Debug\net8.0\ref\AtividadeAgregacao.dll

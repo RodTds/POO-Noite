@@ -9,7 +9,7 @@ namespace ExercicioVendaAgregacao
     {   
 
         
-        public static double Verba { get; set; }
+        public static double Verba { get; private set; }
         
         public Comprador(double verba){
           Verba = verba;
