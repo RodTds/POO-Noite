@@ -29,6 +29,7 @@ namespace ExercicioVendaAgregacao
 
         }
          */
+         // Agicionando o produto Na PROGRAM
         public void MostrarAtributos()
         {
             System.Console.WriteLine($"Venda: {CodigoVenda}");
