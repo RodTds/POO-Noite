@@ -1,0 +1,15 @@
+C:\Users\aluno\Downloads\POO-Noite\AtividadeComposicao\obj\Debug\net8.0\AtividadeComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\POO-Noite\AtividadeComposicao\obj\Debug\net8.0\AtividadeComposicao.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\POO-Noite\AtividadeComposicao\obj\Debug\net8.0\AtividadeComposicao.AssemblyInfo.cs
+C:\Users\aluno\Downloads\POO-Noite\AtividadeComposicao\obj\Debug\net8.0\AtividadeComposicao.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\POO-Noite\AtividadeComposicao\obj\Debug\net8.0\AtividadeComposicao.sourcelink.json
+C:\Users\aluno\Downloads\POO-Noite\AtividadeComposicao\bin\Debug\net8.0\AtividadeComposicao.exe
+C:\Users\aluno\Downloads\POO-Noite\AtividadeComposicao\bin\Debug\net8.0\AtividadeComposicao.deps.json
+C:\Users\aluno\Downloads\POO-Noite\AtividadeComposicao\bin\Debug\net8.0\AtividadeComposicao.runtimeconfig.json
+C:\Users\aluno\Downloads\POO-Noite\AtividadeComposicao\bin\Debug\net8.0\AtividadeComposicao.dll
+C:\Users\aluno\Downloads\POO-Noite\AtividadeComposicao\bin\Debug\net8.0\AtividadeComposicao.pdb
+C:\Users\aluno\Downloads\POO-Noite\AtividadeComposicao\obj\Debug\net8.0\AtividadeComposicao.dll
+C:\Users\aluno\Downloads\POO-Noite\AtividadeComposicao\obj\Debug\net8.0\refint\AtividadeComposicao.dll
+C:\Users\aluno\Downloads\POO-Noite\AtividadeComposicao\obj\Debug\net8.0\AtividadeComposicao.pdb
+C:\Users\aluno\Downloads\POO-Noite\AtividadeComposicao\obj\Debug\net8.0\AtividadeComposicao.genruntimeconfig.cache
+C:\Users\aluno\Downloads\POO-Noite\AtividadeComposicao\obj\Debug\net8.0\ref\AtividadeComposicao.dll
