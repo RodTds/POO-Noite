@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Faculdade\\4 Semestre\\POO\\POO-Noite-1\\revisao\\revisao\\revisao.csproj": {}
+    "D:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\revisao\\revisao\\revisao.csproj": {}
   },
   "projects": {
-    "D:\\Faculdade\\4 Semestre\\POO\\POO-Noite-1\\revisao\\revisao\\revisao.csproj": {
+    "D:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\revisao\\revisao\\revisao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Faculdade\\4 Semestre\\POO\\POO-Noite-1\\revisao\\revisao\\revisao.csproj",
+        "projectUniqueName": "D:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\revisao\\revisao\\revisao.csproj",
         "projectName": "revisao",
-        "projectPath": "D:\\Faculdade\\4 Semestre\\POO\\POO-Noite-1\\revisao\\revisao\\revisao.csproj",
+        "projectPath": "D:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\revisao\\revisao\\revisao.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "D:\\Faculdade\\4 Semestre\\POO\\POO-Noite-1\\revisao\\revisao\\obj\\",
+        "outputPath": "D:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\revisao\\revisao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
