@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\aluno\\.nuget\\packages\\": {}
+    "C:\\Users\\Lucas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aluno\\Downloads\\POO-Noite\\revisao\\revisao\\revisao.csproj",
+      "projectUniqueName": "D:\\Faculdade\\4 Semestre\\POO\\POO-Noite-1\\revisao\\revisao\\revisao.csproj",
       "projectName": "revisao",
-      "projectPath": "C:\\Users\\aluno\\Downloads\\POO-Noite\\revisao\\revisao\\revisao.csproj",
-      "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aluno\\Downloads\\POO-Noite\\revisao\\revisao\\obj\\",
+      "projectPath": "D:\\Faculdade\\4 Semestre\\POO\\POO-Noite-1\\revisao\\revisao\\revisao.csproj",
+      "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
+      "outputPath": "D:\\Faculdade\\4 Semestre\\POO\\POO-Noite-1\\revisao\\revisao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

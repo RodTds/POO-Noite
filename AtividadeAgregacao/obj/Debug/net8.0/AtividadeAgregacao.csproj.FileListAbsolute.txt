@@ -28,3 +28,18 @@ C:\Users\aluno\Downloads\POO-Noite\AtividadeAgregacao\obj\Debug\net8.0\refint\At
 C:\Users\aluno\Downloads\POO-Noite\AtividadeAgregacao\obj\Debug\net8.0\AtividadeAgregacao.pdb
 C:\Users\aluno\Downloads\POO-Noite\AtividadeAgregacao\obj\Debug\net8.0\AtividadeAgregacao.genruntimeconfig.cache
 C:\Users\aluno\Downloads\POO-Noite\AtividadeAgregacao\obj\Debug\net8.0\ref\AtividadeAgregacao.dll
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeAgregacao\obj\Debug\net8.0\AtividadeAgregacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeAgregacao\obj\Debug\net8.0\AtividadeAgregacao.AssemblyInfoInputs.cache
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeAgregacao\obj\Debug\net8.0\AtividadeAgregacao.AssemblyInfo.cs
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeAgregacao\obj\Debug\net8.0\AtividadeAgregacao.csproj.CoreCompileInputs.cache
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeAgregacao\obj\Debug\net8.0\AtividadeAgregacao.sourcelink.json
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeAgregacao\obj\Debug\net8.0\AtividadeAgregacao.pdb
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeAgregacao\bin\Debug\net8.0\AtividadeAgregacao.exe
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeAgregacao\bin\Debug\net8.0\AtividadeAgregacao.deps.json
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeAgregacao\bin\Debug\net8.0\AtividadeAgregacao.runtimeconfig.json
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeAgregacao\bin\Debug\net8.0\AtividadeAgregacao.dll
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeAgregacao\bin\Debug\net8.0\AtividadeAgregacao.pdb
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeAgregacao\obj\Debug\net8.0\AtividadeAgregacao.dll
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeAgregacao\obj\Debug\net8.0\refint\AtividadeAgregacao.dll
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeAgregacao\obj\Debug\net8.0\AtividadeAgregacao.genruntimeconfig.cache
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeAgregacao\obj\Debug\net8.0\ref\AtividadeAgregacao.dll

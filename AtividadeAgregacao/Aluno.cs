@@ -5,21 +5,38 @@ using System.Threading.Tasks;
 
 namespace AtividadeAgregacao
 {
+
     public class Aluno
     {
-        public static int Matricula { get; set; }
-        public string Nome { get; set; }
+        private string matricula;
+        private string nome;
 
-        static Aluno(){
-            Matricula = 500;
+        public string Matricula
+        {
+            get
+            {
+                return matricula;
+            }
+            set
+            {
+                matricula = value;
+            }
         }
+        public string Nome {
+             get{ return nome;} 
+             set{ nome = value;} 
+             }
 
-        public Aluno(string nome){
-            Matricula++;
+
+
+        public Aluno(string matricula, string nome)
+        {
+            Matricula = matricula;
             Nome = nome;
         }
 
-        public void ExibirDadosAluno(){
+        public void ExibirDadosAluno()
+        {
             System.Console.WriteLine($"Matricula: {Matricula} -- Nome: {Nome}");
         }
     }

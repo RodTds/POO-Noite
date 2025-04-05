@@ -14,3 +14,10 @@ livro2.QuantidadePaginas = 200;
 livro2.LerPAginas(200);
 livro2.ExibirDetalhes();
 
+// Terceira instancia
+Livro livro3 = new Livro("","Gabriel Torres",2000,25); // testando validação atributo titulo vazio
+livro3.LerPAginas(16);
+livro3.ExibirDetalhes();
+
+
+

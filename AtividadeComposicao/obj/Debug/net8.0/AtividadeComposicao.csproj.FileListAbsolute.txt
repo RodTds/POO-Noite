@@ -13,3 +13,18 @@ C:\Users\aluno\Downloads\POO-Noite\AtividadeComposicao\obj\Debug\net8.0\refint\A
 C:\Users\aluno\Downloads\POO-Noite\AtividadeComposicao\obj\Debug\net8.0\AtividadeComposicao.pdb
 C:\Users\aluno\Downloads\POO-Noite\AtividadeComposicao\obj\Debug\net8.0\AtividadeComposicao.genruntimeconfig.cache
 C:\Users\aluno\Downloads\POO-Noite\AtividadeComposicao\obj\Debug\net8.0\ref\AtividadeComposicao.dll
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeComposicao\obj\Debug\net8.0\AtividadeComposicao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeComposicao\obj\Debug\net8.0\AtividadeComposicao.AssemblyInfoInputs.cache
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeComposicao\obj\Debug\net8.0\AtividadeComposicao.AssemblyInfo.cs
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeComposicao\obj\Debug\net8.0\AtividadeComposicao.csproj.CoreCompileInputs.cache
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeComposicao\obj\Debug\net8.0\AtividadeComposicao.sourcelink.json
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeComposicao\obj\Debug\net8.0\AtividadeComposicao.pdb
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeComposicao\bin\Debug\net8.0\AtividadeComposicao.exe
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeComposicao\bin\Debug\net8.0\AtividadeComposicao.deps.json
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeComposicao\bin\Debug\net8.0\AtividadeComposicao.runtimeconfig.json
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeComposicao\bin\Debug\net8.0\AtividadeComposicao.dll
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeComposicao\bin\Debug\net8.0\AtividadeComposicao.pdb
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeComposicao\obj\Debug\net8.0\AtividadeComposicao.dll
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeComposicao\obj\Debug\net8.0\refint\AtividadeComposicao.dll
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeComposicao\obj\Debug\net8.0\AtividadeComposicao.genruntimeconfig.cache
+D:\Faculdade\4 Semestre\POO\POO-Noite-1\AtividadeComposicao\obj\Debug\net8.0\ref\AtividadeComposicao.dll

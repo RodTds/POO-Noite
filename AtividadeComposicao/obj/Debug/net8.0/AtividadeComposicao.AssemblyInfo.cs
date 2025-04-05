@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AtividadeComposicao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73bb89f6280dd4beb53a3c6e77ddcc5034cfcbfb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4305503246219e6caf7f02d39f4ffa9275352a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("AtividadeComposicao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AtividadeComposicao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
