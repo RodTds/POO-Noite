@@ -12,9 +12,17 @@ namespace HerancaCliente
            
           
           public void Mostrar(){
-             base.Mostrar();
-            Console.WriteLine("RG: " + Rg );
+            base.Mostrar();
+            Console.WriteLine("RG: " + Rg);
         }
+        // criando um contrutor usando
+        public ClienteFisico(int codigo,string nome,int rg):base(codigo,nome){
+            Rg = rg;
+          }
+
+          public ClienteFisico(){
+
+          }
     }
     
 }

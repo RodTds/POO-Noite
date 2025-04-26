@@ -1,0 +1,15 @@
+D:\Faculdade\4 Semestre\POO\POO-Noite\HerancaExercicioPerecivel\obj\Debug\net8.0\HerancaExercicioPerecivel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\4 Semestre\POO\POO-Noite\HerancaExercicioPerecivel\obj\Debug\net8.0\HerancaExercicioPerecivel.AssemblyInfoInputs.cache
+D:\Faculdade\4 Semestre\POO\POO-Noite\HerancaExercicioPerecivel\obj\Debug\net8.0\HerancaExercicioPerecivel.AssemblyInfo.cs
+D:\Faculdade\4 Semestre\POO\POO-Noite\HerancaExercicioPerecivel\obj\Debug\net8.0\HerancaExercicioPerecivel.csproj.CoreCompileInputs.cache
+D:\Faculdade\4 Semestre\POO\POO-Noite\HerancaExercicioPerecivel\obj\Debug\net8.0\HerancaExercicioPerecivel.sourcelink.json
+D:\Faculdade\4 Semestre\POO\POO-Noite\HerancaExercicioPerecivel\bin\Debug\net8.0\HerancaExercicioPerecivel.exe
+D:\Faculdade\4 Semestre\POO\POO-Noite\HerancaExercicioPerecivel\bin\Debug\net8.0\HerancaExercicioPerecivel.deps.json
+D:\Faculdade\4 Semestre\POO\POO-Noite\HerancaExercicioPerecivel\bin\Debug\net8.0\HerancaExercicioPerecivel.runtimeconfig.json
+D:\Faculdade\4 Semestre\POO\POO-Noite\HerancaExercicioPerecivel\bin\Debug\net8.0\HerancaExercicioPerecivel.dll
+D:\Faculdade\4 Semestre\POO\POO-Noite\HerancaExercicioPerecivel\bin\Debug\net8.0\HerancaExercicioPerecivel.pdb
+D:\Faculdade\4 Semestre\POO\POO-Noite\HerancaExercicioPerecivel\obj\Debug\net8.0\HerancaExercicioPerecivel.dll
+D:\Faculdade\4 Semestre\POO\POO-Noite\HerancaExercicioPerecivel\obj\Debug\net8.0\refint\HerancaExercicioPerecivel.dll
+D:\Faculdade\4 Semestre\POO\POO-Noite\HerancaExercicioPerecivel\obj\Debug\net8.0\HerancaExercicioPerecivel.pdb
+D:\Faculdade\4 Semestre\POO\POO-Noite\HerancaExercicioPerecivel\obj\Debug\net8.0\HerancaExercicioPerecivel.genruntimeconfig.cache
+D:\Faculdade\4 Semestre\POO\POO-Noite\HerancaExercicioPerecivel\obj\Debug\net8.0\ref\HerancaExercicioPerecivel.dll

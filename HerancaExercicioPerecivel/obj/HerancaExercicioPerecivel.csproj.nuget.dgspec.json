@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\HerancaCliente\\HerancaCliente.csproj": {}
+    "D:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\HerancaExercicioPerecivel\\HerancaExercicioPerecivel.csproj": {}
   },
   "projects": {
-    "D:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\HerancaCliente\\HerancaCliente.csproj": {
+    "D:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\HerancaExercicioPerecivel\\HerancaExercicioPerecivel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\HerancaCliente\\HerancaCliente.csproj",
-        "projectName": "HerancaCliente",
-        "projectPath": "D:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\HerancaCliente\\HerancaCliente.csproj",
+        "projectUniqueName": "D:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\HerancaExercicioPerecivel\\HerancaExercicioPerecivel.csproj",
+        "projectName": "HerancaExercicioPerecivel",
+        "projectPath": "D:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\HerancaExercicioPerecivel\\HerancaExercicioPerecivel.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "D:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\HerancaCliente\\obj\\",
+        "outputPath": "D:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\HerancaExercicioPerecivel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"

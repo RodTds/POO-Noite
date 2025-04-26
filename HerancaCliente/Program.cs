@@ -11,6 +11,11 @@ cf.Codigo =2;
 cf.Nome = "Bia";
 cf.Mostrar();
 
+Cliente c2 = new Cliente(10,"Ana Lucia");
+
+ClienteFisico cf2 = new ClienteFisico(20,"Beatriz",2000);
+cf2.Mostrar();
+
 ClienteJuridico cj = new ClienteJuridico();
 cj.Codigo = 3;
 cj.Nome = "Rodrigo";

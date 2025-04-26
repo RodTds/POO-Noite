@@ -12,6 +12,13 @@ namespace HerancaCliente
             base.Mostrar();// Chama o metodo mostrar da classe base
             Console.WriteLine("CNPJ: " + Cnpj );
         }
+         public ClienteJuridico(int codigo,string nome,int cnpj):base(codigo,nome){
+            Cnpj = cnpj;
+          }
+
+          public ClienteJuridico(){
+            
+          }
     }
     
 }
