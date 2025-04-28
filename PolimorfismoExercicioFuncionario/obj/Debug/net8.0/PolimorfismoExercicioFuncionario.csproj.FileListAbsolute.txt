@@ -1,0 +1,15 @@
+C:\Users\aluno\Downloads\POO-Noite\PolimorfismoExercicioFuncionario\obj\Debug\net8.0\PolimorfismoExercicioFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\POO-Noite\PolimorfismoExercicioFuncionario\obj\Debug\net8.0\PolimorfismoExercicioFuncionario.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\POO-Noite\PolimorfismoExercicioFuncionario\obj\Debug\net8.0\PolimorfismoExercicioFuncionario.AssemblyInfo.cs
+C:\Users\aluno\Downloads\POO-Noite\PolimorfismoExercicioFuncionario\obj\Debug\net8.0\PolimorfismoExercicioFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\POO-Noite\PolimorfismoExercicioFuncionario\obj\Debug\net8.0\PolimorfismoExercicioFuncionario.sourcelink.json
+C:\Users\aluno\Downloads\POO-Noite\PolimorfismoExercicioFuncionario\bin\Debug\net8.0\PolimorfismoExercicioFuncionario.exe
+C:\Users\aluno\Downloads\POO-Noite\PolimorfismoExercicioFuncionario\bin\Debug\net8.0\PolimorfismoExercicioFuncionario.deps.json
+C:\Users\aluno\Downloads\POO-Noite\PolimorfismoExercicioFuncionario\bin\Debug\net8.0\PolimorfismoExercicioFuncionario.runtimeconfig.json
+C:\Users\aluno\Downloads\POO-Noite\PolimorfismoExercicioFuncionario\bin\Debug\net8.0\PolimorfismoExercicioFuncionario.dll
+C:\Users\aluno\Downloads\POO-Noite\PolimorfismoExercicioFuncionario\bin\Debug\net8.0\PolimorfismoExercicioFuncionario.pdb
+C:\Users\aluno\Downloads\POO-Noite\PolimorfismoExercicioFuncionario\obj\Debug\net8.0\PolimorfismoExercicioFuncionario.dll
+C:\Users\aluno\Downloads\POO-Noite\PolimorfismoExercicioFuncionario\obj\Debug\net8.0\refint\PolimorfismoExercicioFuncionario.dll
+C:\Users\aluno\Downloads\POO-Noite\PolimorfismoExercicioFuncionario\obj\Debug\net8.0\PolimorfismoExercicioFuncionario.pdb
+C:\Users\aluno\Downloads\POO-Noite\PolimorfismoExercicioFuncionario\obj\Debug\net8.0\PolimorfismoExercicioFuncionario.genruntimeconfig.cache
+C:\Users\aluno\Downloads\POO-Noite\PolimorfismoExercicioFuncionario\obj\Debug\net8.0\ref\PolimorfismoExercicioFuncionario.dll
