@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\revisao\\revisao\\revisao.csproj",
-      "projectName": "revisao",
-      "projectPath": "E:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\revisao\\revisao\\revisao.csproj",
+      "projectUniqueName": "E:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\AtividadePolimorfismo\\PolimorfismoExercicioFuncionario.csproj",
+      "projectName": "PolimorfismoExercicioFuncionario",
+      "projectPath": "E:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\AtividadePolimorfismo\\PolimorfismoExercicioFuncionario.csproj",
       "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
-      "outputPath": "E:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\revisao\\revisao\\obj\\",
+      "outputPath": "E:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\AtividadePolimorfismo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config"
