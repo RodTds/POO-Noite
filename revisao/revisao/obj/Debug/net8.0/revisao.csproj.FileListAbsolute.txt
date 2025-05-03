@@ -69,3 +69,18 @@ c:\Users\aluno\Downloads\POO-Noite\revisao\revisao\obj\Debug\net8.0\refint\revis
 c:\Users\aluno\Downloads\POO-Noite\revisao\revisao\obj\Debug\net8.0\revisao.pdb
 c:\Users\aluno\Downloads\POO-Noite\revisao\revisao\obj\Debug\net8.0\revisao.genruntimeconfig.cache
 c:\Users\aluno\Downloads\POO-Noite\revisao\revisao\obj\Debug\net8.0\ref\revisao.dll
+e:\Faculdade\4 Semestre\POO\POO-Noite\revisao\revisao\bin\Debug\net8.0\revisao.exe
+e:\Faculdade\4 Semestre\POO\POO-Noite\revisao\revisao\bin\Debug\net8.0\revisao.deps.json
+e:\Faculdade\4 Semestre\POO\POO-Noite\revisao\revisao\bin\Debug\net8.0\revisao.runtimeconfig.json
+e:\Faculdade\4 Semestre\POO\POO-Noite\revisao\revisao\bin\Debug\net8.0\revisao.dll
+e:\Faculdade\4 Semestre\POO\POO-Noite\revisao\revisao\bin\Debug\net8.0\revisao.pdb
+e:\Faculdade\4 Semestre\POO\POO-Noite\revisao\revisao\obj\Debug\net8.0\revisao.GeneratedMSBuildEditorConfig.editorconfig
+e:\Faculdade\4 Semestre\POO\POO-Noite\revisao\revisao\obj\Debug\net8.0\revisao.AssemblyInfoInputs.cache
+e:\Faculdade\4 Semestre\POO\POO-Noite\revisao\revisao\obj\Debug\net8.0\revisao.AssemblyInfo.cs
+e:\Faculdade\4 Semestre\POO\POO-Noite\revisao\revisao\obj\Debug\net8.0\revisao.csproj.CoreCompileInputs.cache
+e:\Faculdade\4 Semestre\POO\POO-Noite\revisao\revisao\obj\Debug\net8.0\revisao.sourcelink.json
+e:\Faculdade\4 Semestre\POO\POO-Noite\revisao\revisao\obj\Debug\net8.0\revisao.dll
+e:\Faculdade\4 Semestre\POO\POO-Noite\revisao\revisao\obj\Debug\net8.0\refint\revisao.dll
+e:\Faculdade\4 Semestre\POO\POO-Noite\revisao\revisao\obj\Debug\net8.0\revisao.pdb
+e:\Faculdade\4 Semestre\POO\POO-Noite\revisao\revisao\obj\Debug\net8.0\revisao.genruntimeconfig.cache
+e:\Faculdade\4 Semestre\POO\POO-Noite\revisao\revisao\obj\Debug\net8.0\ref\revisao.dll
