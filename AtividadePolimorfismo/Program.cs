@@ -1,5 +1,6 @@
 ﻿using AtividadePolimorfismo;
-
+//Funcionario
+Funcionario funcionario = new Funcionario(10,"Joao",3000);
 // Secretarios
 Secretario secretario = new Secretario(1,"Joao",3000);
 Secretario secretario2 = new Secretario(6,"Joana",3000);
@@ -16,18 +17,20 @@ Diretor diretor3 = new Diretor(5,"Carlos",3000);
 GerenciadorBonificacao gerenciar = new GerenciadorBonificacao();
 gerenciar.TotalizadorBonificacao(diretor);
 gerenciar.TotalizadorBonificacao(diretor2);
+gerenciar.TotalizadorBonificacao(diretor3);
 
 gerenciar.TotalizadorBonificacao(secretario);
 gerenciar.TotalizadorBonificacao(secretario2);
+gerenciar.TotalizadorBonificacao(secretario3);
 
 gerenciar.TotalizadorBonificacao(gerente2);
 gerenciar.TotalizadorBonificacao(gerente);
+gerenciar.TotalizadorBonificacao(gerente3);
 
+gerenciar.TotalizadorBonificacao(funcionario);
 // Exiber Resultados
-System.Console.WriteLine($"Total Bonificação dos Funcionarios: { gerenciar.TotalFuncionario:c}" );
-System.Console.WriteLine($"Total Bonificação dos Diretores: { gerenciar.TotalDiretor:c}" );
-System.Console.WriteLine($"Total Bonificação dos Gerentes: { gerenciar.TotalGerente:c}" );
-System.Console.WriteLine($"Total Bonificação dos Secretários: { gerenciar.TotalSecretario:c}" );
+System.Console.WriteLine($"Total Bonificação dos Funcionarios: { gerenciar.TotalBonificacao:c}" );
+
 
 
 /* 

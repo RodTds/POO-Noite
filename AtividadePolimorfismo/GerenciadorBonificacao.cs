@@ -7,61 +7,39 @@ namespace AtividadePolimorfismo
 {
     public class GerenciadorBonificacao
     {
-        private double totalFuncionario;
-        private double totalDiretor;
-        private double totalgerente;
-        private double totalSecretario;
+        private double totalBonificacao; 
 
-        public double TotalFuncionario
+        public double TotalBonificacao
         {
-            get { return totalFuncionario; }
-            set { totalFuncionario = value; }
+            get { return totalBonificacao; }
+            set { totalBonificacao = value; }
         }
 
-        public double TotalDiretor
-        {
-            get { return totalDiretor; }
-            set { totalDiretor = value; }
-        }  
-        
-     
-        public double TotalGerente
-        {
-            get { return totalgerente; }
-            set { totalgerente = value; }
-        }
-
-        public double TotalSecretario
-        {
-            get { return totalSecretario; }
-            set { totalSecretario = value;}
-        }
-
+   
 
 
         // se aqui eu colocar o parametro no tipo funcionario eu consigo na instancia jogar qualquer objeto herdado
         public void TotalizadorBonificacao(Funcionario funcionario)
         {
-            this.TotalFuncionario += funcionario.CalcularBonificacao();
+            this.TotalBonificacao += funcionario.CalcularBonificacao();
 
         }
         public void TotalizadorBonificacao(Diretor diretor)
         {
-            this.TotalDiretor += diretor.CalcularBonificacao();
+            this.TotalBonificacao += diretor.CalcularBonificacao();
 
         }
         public void TotalizadorBonificacao(Gerente gerente)
         {
-            this.TotalGerente += gerente.CalcularBonificacao();
+            this.TotalBonificacao += gerente.CalcularBonificacao();
 
         }
         public void TotalizadorBonificacao(Secretario secretario)
         {
-            this.TotalSecretario += secretario.CalcularBonificacao();
+            this.TotalBonificacao += secretario.CalcularBonificacao();
 
         }
-
-
+        
 
     }
 }
