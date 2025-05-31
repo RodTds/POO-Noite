@@ -5,16 +5,12 @@ using System.Threading.Tasks;
 
 namespace SolidAtividade
 {
-    public class ValidadorUsuarios
-    {
-        private Conta usuario;
+  public class ValidadorUsuarios
+  {
 
-        public bool ValidarUsuario(string nome)
-        {
-           if(nome == usuario.Titular)
-             return true;
-            else
-              return false;
-        }
+    public bool ValidarUsuario(string nome,Conta usuario)
+    {
+      return usuario.Titular == nome;
     }
+  }
 }

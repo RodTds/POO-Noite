@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\Downloads\\POO-Noite\\SolidAtividade\\SolidAtividade.csproj": {}
+    "E:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\POO-Noite\\SolidAtividade\\SolidAtividade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\Downloads\\POO-Noite\\SolidAtividade\\SolidAtividade.csproj": {
+    "E:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\POO-Noite\\SolidAtividade\\SolidAtividade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\Downloads\\POO-Noite\\SolidAtividade\\SolidAtividade.csproj",
+        "projectUniqueName": "E:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\POO-Noite\\SolidAtividade\\SolidAtividade.csproj",
         "projectName": "SolidAtividade",
-        "projectPath": "C:\\Users\\aluno\\Downloads\\POO-Noite\\SolidAtividade\\SolidAtividade.csproj",
-        "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\Downloads\\POO-Noite\\SolidAtividade\\obj\\",
+        "projectPath": "E:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\POO-Noite\\SolidAtividade\\SolidAtividade.csproj",
+        "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
+        "outputPath": "E:\\Faculdade\\4 Semestre\\POO\\POO-Noite\\POO-Noite\\SolidAtividade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

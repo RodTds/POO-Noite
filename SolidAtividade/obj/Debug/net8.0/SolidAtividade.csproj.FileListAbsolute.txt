@@ -3,3 +3,18 @@ C:\Users\aluno\Downloads\POO-Noite\SolidAtividade\obj\Debug\net8.0\SolidAtividad
 C:\Users\aluno\Downloads\POO-Noite\SolidAtividade\obj\Debug\net8.0\SolidAtividade.AssemblyInfo.cs
 C:\Users\aluno\Downloads\POO-Noite\SolidAtividade\obj\Debug\net8.0\SolidAtividade.csproj.CoreCompileInputs.cache
 C:\Users\aluno\Downloads\POO-Noite\SolidAtividade\obj\Debug\net8.0\SolidAtividade.sourcelink.json
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\SolidAtividade\obj\Debug\net8.0\SolidAtividade.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\SolidAtividade\obj\Debug\net8.0\SolidAtividade.AssemblyInfoInputs.cache
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\SolidAtividade\obj\Debug\net8.0\SolidAtividade.AssemblyInfo.cs
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\SolidAtividade\obj\Debug\net8.0\SolidAtividade.csproj.CoreCompileInputs.cache
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\SolidAtividade\obj\Debug\net8.0\SolidAtividade.sourcelink.json
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\SolidAtividade\bin\Debug\net8.0\SolidAtividade.exe
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\SolidAtividade\bin\Debug\net8.0\SolidAtividade.deps.json
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\SolidAtividade\bin\Debug\net8.0\SolidAtividade.runtimeconfig.json
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\SolidAtividade\bin\Debug\net8.0\SolidAtividade.dll
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\SolidAtividade\bin\Debug\net8.0\SolidAtividade.pdb
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\SolidAtividade\obj\Debug\net8.0\SolidAtividade.dll
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\SolidAtividade\obj\Debug\net8.0\refint\SolidAtividade.dll
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\SolidAtividade\obj\Debug\net8.0\SolidAtividade.pdb
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\SolidAtividade\obj\Debug\net8.0\SolidAtividade.genruntimeconfig.cache
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\SolidAtividade\obj\Debug\net8.0\ref\SolidAtividade.dll

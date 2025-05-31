@@ -3,14 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
+
 namespace SolidAtividade
 {
     public class GeradorRelatorios
     {
         
-        public string GerarRelatorio(Conta usuario)
+        public string GerarRelatorio(Conta conta)
         {
-            return $"Titular: {usuario.Titular}\t Saldo: {usuario.Saldo:c}";
+           return $"Titular: {conta.Titular}\t Saldo: {conta.Saldo:c}";
         }
     }
 }
