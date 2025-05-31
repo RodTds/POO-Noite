@@ -1,0 +1,18 @@
+public void RemoverDependentes(int codigo)
+{
+    var filhosParaRemover = new List<Dependente>();
+
+    foreach (var filho in VetFilhos)
+    {
+        Console.WriteLine(filho.verificaMaioridade());
+        if (filho.Codigo == codigo && filho.verificaMaioridade())
+        {
+            filhosParaRemover.Add(filho);
+        }
+    }
+
+    foreach (var filho in filhosParaRemover)
+    {
+        VetFilhos.Remove(filho);
+    }
+}

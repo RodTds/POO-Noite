@@ -1,0 +1,15 @@
+E:\Faculdade\4 Semestre\POO\POO-Noite\InterfaceAutenticavel\obj\Debug\net8.0\InterfaceAutenticavel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faculdade\4 Semestre\POO\POO-Noite\InterfaceAutenticavel\obj\Debug\net8.0\InterfaceAutenticavel.AssemblyInfoInputs.cache
+E:\Faculdade\4 Semestre\POO\POO-Noite\InterfaceAutenticavel\obj\Debug\net8.0\InterfaceAutenticavel.AssemblyInfo.cs
+E:\Faculdade\4 Semestre\POO\POO-Noite\InterfaceAutenticavel\obj\Debug\net8.0\InterfaceAutenticavel.csproj.CoreCompileInputs.cache
+E:\Faculdade\4 Semestre\POO\POO-Noite\InterfaceAutenticavel\obj\Debug\net8.0\InterfaceAutenticavel.sourcelink.json
+E:\Faculdade\4 Semestre\POO\POO-Noite\InterfaceAutenticavel\bin\Debug\net8.0\InterfaceAutenticavel.exe
+E:\Faculdade\4 Semestre\POO\POO-Noite\InterfaceAutenticavel\bin\Debug\net8.0\InterfaceAutenticavel.deps.json
+E:\Faculdade\4 Semestre\POO\POO-Noite\InterfaceAutenticavel\bin\Debug\net8.0\InterfaceAutenticavel.runtimeconfig.json
+E:\Faculdade\4 Semestre\POO\POO-Noite\InterfaceAutenticavel\bin\Debug\net8.0\InterfaceAutenticavel.dll
+E:\Faculdade\4 Semestre\POO\POO-Noite\InterfaceAutenticavel\bin\Debug\net8.0\InterfaceAutenticavel.pdb
+E:\Faculdade\4 Semestre\POO\POO-Noite\InterfaceAutenticavel\obj\Debug\net8.0\InterfaceAutenticavel.dll
+E:\Faculdade\4 Semestre\POO\POO-Noite\InterfaceAutenticavel\obj\Debug\net8.0\refint\InterfaceAutenticavel.dll
+E:\Faculdade\4 Semestre\POO\POO-Noite\InterfaceAutenticavel\obj\Debug\net8.0\InterfaceAutenticavel.pdb
+E:\Faculdade\4 Semestre\POO\POO-Noite\InterfaceAutenticavel\obj\Debug\net8.0\InterfaceAutenticavel.genruntimeconfig.cache
+E:\Faculdade\4 Semestre\POO\POO-Noite\InterfaceAutenticavel\obj\Debug\net8.0\ref\InterfaceAutenticavel.dll
