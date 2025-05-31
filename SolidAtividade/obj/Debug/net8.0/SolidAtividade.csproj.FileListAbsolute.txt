@@ -1,0 +1,5 @@
+C:\Users\aluno\Downloads\POO-Noite\SolidAtividade\obj\Debug\net8.0\SolidAtividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\POO-Noite\SolidAtividade\obj\Debug\net8.0\SolidAtividade.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\POO-Noite\SolidAtividade\obj\Debug\net8.0\SolidAtividade.AssemblyInfo.cs
+C:\Users\aluno\Downloads\POO-Noite\SolidAtividade\obj\Debug\net8.0\SolidAtividade.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\POO-Noite\SolidAtividade\obj\Debug\net8.0\SolidAtividade.sourcelink.json
