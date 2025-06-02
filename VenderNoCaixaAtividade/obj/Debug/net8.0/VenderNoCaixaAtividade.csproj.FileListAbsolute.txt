@@ -1,0 +1,15 @@
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\VenderNoCaixaAtividade\obj\Debug\net8.0\VenderNoCaixaAtividade.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\VenderNoCaixaAtividade\obj\Debug\net8.0\VenderNoCaixaAtividade.AssemblyInfoInputs.cache
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\VenderNoCaixaAtividade\obj\Debug\net8.0\VenderNoCaixaAtividade.AssemblyInfo.cs
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\VenderNoCaixaAtividade\obj\Debug\net8.0\VenderNoCaixaAtividade.csproj.CoreCompileInputs.cache
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\VenderNoCaixaAtividade\obj\Debug\net8.0\VenderNoCaixaAtividade.sourcelink.json
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\VenderNoCaixaAtividade\bin\Debug\net8.0\VenderNoCaixaAtividade.exe
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\VenderNoCaixaAtividade\bin\Debug\net8.0\VenderNoCaixaAtividade.deps.json
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\VenderNoCaixaAtividade\bin\Debug\net8.0\VenderNoCaixaAtividade.runtimeconfig.json
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\VenderNoCaixaAtividade\bin\Debug\net8.0\VenderNoCaixaAtividade.dll
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\VenderNoCaixaAtividade\bin\Debug\net8.0\VenderNoCaixaAtividade.pdb
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\VenderNoCaixaAtividade\obj\Debug\net8.0\VenderNoCaixaAtividade.dll
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\VenderNoCaixaAtividade\obj\Debug\net8.0\refint\VenderNoCaixaAtividade.dll
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\VenderNoCaixaAtividade\obj\Debug\net8.0\VenderNoCaixaAtividade.pdb
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\VenderNoCaixaAtividade\obj\Debug\net8.0\VenderNoCaixaAtividade.genruntimeconfig.cache
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\VenderNoCaixaAtividade\obj\Debug\net8.0\ref\VenderNoCaixaAtividade.dll

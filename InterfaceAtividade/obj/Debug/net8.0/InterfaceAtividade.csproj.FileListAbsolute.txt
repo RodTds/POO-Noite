@@ -1,0 +1,15 @@
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\InterfaceAtividade\obj\Debug\net8.0\InterfaceAtividade.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\InterfaceAtividade\obj\Debug\net8.0\InterfaceAtividade.AssemblyInfoInputs.cache
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\InterfaceAtividade\obj\Debug\net8.0\InterfaceAtividade.AssemblyInfo.cs
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\InterfaceAtividade\obj\Debug\net8.0\InterfaceAtividade.csproj.CoreCompileInputs.cache
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\InterfaceAtividade\obj\Debug\net8.0\InterfaceAtividade.sourcelink.json
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\InterfaceAtividade\bin\Debug\net8.0\InterfaceAtividade.exe
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\InterfaceAtividade\bin\Debug\net8.0\InterfaceAtividade.deps.json
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\InterfaceAtividade\bin\Debug\net8.0\InterfaceAtividade.runtimeconfig.json
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\InterfaceAtividade\bin\Debug\net8.0\InterfaceAtividade.dll
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\InterfaceAtividade\bin\Debug\net8.0\InterfaceAtividade.pdb
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\InterfaceAtividade\obj\Debug\net8.0\InterfaceAtividade.dll
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\InterfaceAtividade\obj\Debug\net8.0\refint\InterfaceAtividade.dll
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\InterfaceAtividade\obj\Debug\net8.0\InterfaceAtividade.pdb
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\InterfaceAtividade\obj\Debug\net8.0\InterfaceAtividade.genruntimeconfig.cache
+E:\Faculdade\4 Semestre\POO\POO-Noite\POO-Noite\InterfaceAtividade\obj\Debug\net8.0\ref\InterfaceAtividade.dll
